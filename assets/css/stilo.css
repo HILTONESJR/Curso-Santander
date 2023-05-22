@@ -1,0 +1,38 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+
+:root {
+    font-size: 62,5%; 
+}
+
+aside h1 {
+    font-family: 'roboto', sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 75px;
+    
+}
+
+aside h1 span {
+    color: red;
+}
+main {
+    width: 60rem;
+    height: 52rem;
+    border: 0.1rem solid black;
+}
+
+main h2 {
+     max-width: 43rem;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
