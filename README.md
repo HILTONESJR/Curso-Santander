@@ -1,6 +1,6 @@
-<img src="./assets/img/santander.png align="center">
+<img src="./assets/img/santander.png" align="center">
 
-[CURSO SANTANDER CODERS 2023 ](https://hiltonesjr.github.io/mundo-invertido-dio-aula/) <br>
+[CURSO SANTANDER CODERS 2023 ](hiltonesjr.github.io/Curso-Santander/) <br>
 
 
 <h1> Ferramentas Usadas </h1>
