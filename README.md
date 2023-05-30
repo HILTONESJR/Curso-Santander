@@ -1,4 +1,4 @@
-<img src="./assets/img/santander.png" align="center">
+<img src="assets/img/santander.PNG" align="center">
 
 [CURSO SANTANDER CODERS 2023 ](hiltonesjr.github.io/Curso-Santander/) <br>
 
